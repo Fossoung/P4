@@ -1,4 +1,4 @@
-#Audit et optimisation
+Audit et optimisation
 L'objectif est :
 - Assurer l'accessibilité du site 
 - Optimiser le référencement du site 
